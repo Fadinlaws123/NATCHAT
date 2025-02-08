@@ -6,7 +6,7 @@ description 'Simple script that prevents users from typing in chat without a com
 version '1.0'
 
 server_scripts {
-    'server/server.lua'
+    'server/server.lua',
     'server/versionChecker.lua'
 }
 
